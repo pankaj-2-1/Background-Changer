@@ -28,8 +28,11 @@ button{
     text-justify: center;
     font-size: 20px;
     display: block;
-    font-family:fantasy;
-    margin-top: 120px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 160px;
+    color:black; 
+    background-color: grey;
+    
     
 
 } 
@@ -41,7 +44,7 @@ button{
 
 }
 #two{
-    background-image: url('https://willow.marishacademytrust.co.uk/wp-content/uploads/2022/04/Summer.jpg') ;
+    background-image: url('https://preview.redd.it/fall-season-the-most-gorgeous-season-of-the-year-v0-t3ia6r1d74hd1.jpeg?width=640&crop=smart&auto=webp&s=778e7b5cff73cfd28e0a1a675f69ce2bd2ca2e24') ;
     background-size: cover;
 }
 #three{
@@ -49,6 +52,6 @@ button{
     background-size: cover;
 }
 #four{
-    background-image: url('https://willow.marishacademytrust.co.uk/wp-content/uploads/2022/04/Summer.jpg') ;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHhyuFUw6yuz6kFoDWu_Y7w3PVd7qACjwTBg&s') ;
     background-size: cover;
 }
